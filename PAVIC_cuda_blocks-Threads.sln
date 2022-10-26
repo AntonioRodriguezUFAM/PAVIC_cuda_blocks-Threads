@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32002.185
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "PAVIC_cuda_blocks-Threads", "PAVIC_cuda_blocks-Threads.vcxproj", "{6A56ADA9-4C3D-4718-91AD-6A9624856249}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6A56ADA9-4C3D-4718-91AD-6A9624856249}.Debug|x64.ActiveCfg = Debug|x64
+		{6A56ADA9-4C3D-4718-91AD-6A9624856249}.Debug|x64.Build.0 = Debug|x64
+		{6A56ADA9-4C3D-4718-91AD-6A9624856249}.Release|x64.ActiveCfg = Release|x64
+		{6A56ADA9-4C3D-4718-91AD-6A9624856249}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {848E1449-AF3C-4C7A-8730-FF4DEFA1A3C0}
+	EndGlobalSection
+EndGlobal
